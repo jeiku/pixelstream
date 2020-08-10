@@ -1,9 +1,9 @@
 @font-face {
 	font-family: "Pixel";
-	src: url("/styles/fonts/disposabledroid-bb.regular-webfont.woff2")
+	src: url("styles/fonts/disposabledroid-bb.regular-webfont.woff2")
 			format("woff2"),
-		url("/styles/fonts/disposabledroid-bb.regular-webfont.woff") format("woff"),
-		url("/styles/fonts/disposabledroid-bb.regular.ttf") format("truetype");
+		url("styles/fonts/disposabledroid-bb.regular-webfont.woff") format("woff"),
+		url("styles/fonts/disposabledroid-bb.regular.ttf") format("truetype");
 	font-weight: normal;
 	font-style: normal;
 }
